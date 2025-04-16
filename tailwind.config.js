@@ -15,7 +15,7 @@ export default {
         darkShade: "rgba(47,34,34,0.10)",
       },
       backgroundImage: {
-        redGradient: "linear-gradient(92deg,#E01E26_0%,#841C1C_100%)",
+        'redGradient': "linear-gradient(92deg, #E01E26 0%, #841C1C 100%)",
       },
       fontFamily: {
         montserrat: ["Montserrat", "sans-serif"],
